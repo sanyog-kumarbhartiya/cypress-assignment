@@ -16,3 +16,12 @@ npx cypress run
 
 # run indivisual test file in cypress
 npx cypress run --spec "file path"
+
+# use api for testing
+rapid api 
+
+1- amazon 
+https://real-time-amazon-data.p.rapidapi.com/search
+
+2- flipkart
+https://real-time-flipkart-api.p.rapidapi.com/product-search
