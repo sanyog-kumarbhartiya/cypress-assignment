@@ -1,0 +1,33 @@
+{
+  "frontendProduct": {
+    "name": "Karishma Analog Black Dial Men's Watch NM1639SM02/NN1639SM02",
+    "price": "₹1,995",
+    "link": "https://www.amazon.in/dp/B00ISNVQMW",
+    "asin": "B00ISNVQMW"
+  },
+  "backendProduct": {
+    "asin": "B00ISNVQMW",
+    "product_title": "Titan Karishma Analog Black Dial Men&#x27;s Watch NM1639SM02/NN1639SM02",
+    "product_price": "₹1,995",
+    "product_original_price": null,
+    "currency": "INR",
+    "product_star_rating": "4.3",
+    "product_num_ratings": 1958,
+    "product_url": "https://www.amazon.in/dp/B00ISNVQMW",
+    "product_photo": "https://m.media-amazon.com/images/I/51ykbSj-eoL._AC_UL960_FMwebp_QL65_.jpg",
+    "product_num_offers": 1,
+    "product_minimum_offer_price": "₹1,995",
+    "is_best_seller": false,
+    "is_amazon_choice": false,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "1K+ bought in past month",
+    "delivery": "Get it by Tomorrow, 22 SeptemberFREE Delivery by Amazon",
+    "has_variations": false
+  },
+  "comparisonResults": {
+    "asinMatch": "Matched",
+    "linkMatch": "Matched",
+    "priceMatch": "Matched"
+  }
+}
