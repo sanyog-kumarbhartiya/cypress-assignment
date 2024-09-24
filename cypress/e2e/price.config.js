@@ -15,7 +15,7 @@ module.exports = {
       apiEndpoint: 'https://real-time-amazon-data.p.rapidapi.com/search',
       headers: {
         'x-rapidapi-host': 'real-time-amazon-data.p.rapidapi.com',
-        'x-rapidapi-key': '6eb9d23f83mshd255ac32f21eadap1970bcjsn10351c83543a', // Your actual Amazon API key
+        'x-rapidapi-key': 'fbef3eab82msh3471e68516145d0p1f6032jsn7c18726c1fb8', // Your actual Amazon API key
       },
       queryParams: {
         query: 'Titan Classique Slimline Anthracite Dial Analog with Date Stainless Steel Strap Watch for Men-NS90142QM02',
